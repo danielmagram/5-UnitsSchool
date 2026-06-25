@@ -13,6 +13,7 @@ The system allows users to register, solve cybersecurity challenges, submit flag
 - Browse available challenges
 - Submit challenge flags
 - View challenge hints
+- download challenge files
 - Live scoreboard and rankings
 - Track personal progress
 
@@ -20,6 +21,7 @@ The system allows users to register, solve cybersecurity challenges, submit flag
 - Create new challenges
 - Edit existing challenges
 - Manage hints
+- Manage files
 - Manage users
 - Monitor platform activity
 
@@ -135,8 +137,6 @@ Example:
 ---
 
 ## Learning Outcomes
-
-This project demonstrates:
 
 - Object-Oriented Programming (OOP)
 - Client-Server Architecture
