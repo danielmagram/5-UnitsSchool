@@ -165,8 +165,6 @@ Example:
 
 **Daniel Magram**
 
-5-Unit Computer Science Final Project
-
 Focused on cybersecurity, software development, networking, and system design.
 
 ---
